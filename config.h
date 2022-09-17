@@ -7,7 +7,8 @@
  */
 //static char *font = "mono:pixelsize=12:antialias=true:autohint=true";
 static char *font = "Iosevka Fixed SS06:size=11";
-static char *font2[] = { "JoyPixels:pixelsize=10:antialias=true:autohint=true" };
+//static char *font2[] = { "JoyPixels:pixelsize=10:antialias=true:autohint=true" };
+static char *font2[] = { "Noto Sans Mono CJK JP:size=11:style=regular",  "JoyPixels:pixelsize=10:antialias=true:autohint=true", "Symbols Nerd Font:style=2048-em:size=11:antialias=true:autohint=true" };
 static int borderpx = 2;
 
 /*
